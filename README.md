@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm sanghyun hong :dromedary_camel:
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=waitsj778&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+### Glad to see you here!
+![visitors](https://visitor-badge.glitch.me/badge?page_id=waitsj778.visitor-badge)
 
 <!--
 **waitsj778/waitsj778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
