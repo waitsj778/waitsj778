@@ -1,6 +1,6 @@
 ---
 title: TODO in 2021
-tags: ["PCA", "CKS", "DevOps", "SRE", "GCP", "KodeKloud"]
+tags: ["GCP", "CKS"]
 excerpt: 2021年にやること
 date: May 1, 2021
 ---
