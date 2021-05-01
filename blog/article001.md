@@ -7,5 +7,5 @@
 
 ## 学習
 - [Google.SRE](https://sre.google/)
-- [DevOps Roadmap](https://roadmap.sh/devops)
+- [Roadmap.DevOps](https://roadmap.sh/devops)
 - [KodeKloud.CKS](https://kodekloud.com/p/certified-kubernetes-security-specialist-cks)
