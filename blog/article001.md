@@ -1,4 +1,10 @@
-# TODO in 2021
+---
+title: TODO in 2021
+tags: ["PCA", "CKS"]
+excerpt: 2021年にやること
+date: May 1, 2021
+---
+
 ## 資格取得 
 - [x] Professional Cloud Architect
 - [ ] Professional Cloud Developer
