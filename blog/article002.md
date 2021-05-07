@@ -23,7 +23,7 @@ date: May 7, 2021
 - [Google.SRE](https://sre.google/)を学習する 
 
 ## アウトプット
-- [ ] Professional Cloud DevOps Engineer
+[ ] Professional Cloud DevOps Engineer
 
 ## 期限
-- End of August, 2021
+End of August, 2021
