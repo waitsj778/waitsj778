@@ -1,7 +1,7 @@
 ---
 title: SREを理解する
 tags: ["GCP", "SRE"]
-excerpt: SRE文化を理解する為にやることとアウトプット
+excerpt: SRE文化を理解する為にやることとアウトプット
 date: May 7, 2021
 ---
 
